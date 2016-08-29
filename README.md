@@ -1,0 +1,2 @@
+# MagicScraper
+To be determined
